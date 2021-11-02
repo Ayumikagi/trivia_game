@@ -1,4 +1,4 @@
-# Trivia Master 1.0.0
+# Trivia Master 1.1.0
 
 ## Features
   - Choose your username, can be changed anytime
@@ -7,5 +7,9 @@
   - Name and achieved rank saved and carried between sessions (.txt file)
 
 ## Changelog
+### 1.1.0
+  - Reworked the XP system
+  - ABC answers no longer case sensitive
+
 ### 1.0.0
   - Uploaded
